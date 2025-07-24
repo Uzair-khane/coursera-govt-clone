@@ -63,7 +63,7 @@
 
       <!-- Login + Join -->
       <div class="flex gap-4 items-center">
-        <a href="https://www.coursera.org/courseraplus?adgroupid=160111577194&assetgroupid=&authMode=login&campaignid=20882940687&creativeid=696907040380&device=c&devicemodel=&extensionid=&gad_campaignid=20882940687&gad_source=1&gbraid=0AAAAADdKX6bQMJJSSIF-O9dsU-FQVkqEL&gclid=Cj0KCQjwkILEBhDeARIsAL--pjzUwN_PngIB8uFGfwUtqsSDKDwSRl6JAOu8m7fbK_qtDlQpyA72iDAaAnmbEALw_wcB&keyword=coursera&matchtype=e&network=g&placement=&targetid=kwd-36262515261&utm_campaign=b2c_apac_x_coursera_ftcof_courseraplus_cx_dr_bau_gg_sem_bd-ex_pk_all_m_hyb_23-12_x&utm_medium=sem&utm_source=gg" class="text-blue-600 hover:underline">Login</a>
+        <a href="" class="text-blue-600 hover:underline">Login</a>
         <a href="">
           <button class="border px-2 w-[120px] py-2 rounded-md border-blue-800 text-blue-600 hover:bg-blue-50 text-[15px] transition">
             Join for Free

@@ -1,3 +1,8 @@
 <template>
-<Header />
+<div>
+  <Header />
+</div>
+<div>
+  <Banner />
+</div>
 </template>
